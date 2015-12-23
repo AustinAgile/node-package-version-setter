@@ -1,0 +1,19 @@
+{
+	"name": "node-package-version-setter",
+	"description": "Set or get the version number in a json file (like package.json).",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AustinAgile/node-package-version-setter"
+	},
+	"version": "0.0.0",
+	"author": {
+		"name": "Mattersight"
+	},
+	"dependencies": {
+		"commander": "^2.8.1",
+		"lodash": "^3.9.1",
+		"strip-bom": "^1.0.0"
+	},
+	"license": "LicenseRef-LICENSE",
+	"main": "version.js"
+}
